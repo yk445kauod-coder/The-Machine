@@ -1,0 +1,7 @@
+{
+  "name": "The Machine",
+  "description": "A super-intelligent multi-media agent capable of generating apps, media, documents, and performing complex tasks with a futuristic interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
